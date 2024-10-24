@@ -1,4 +1,3 @@
-# Daniely Flores - Android Developer
 
 
 <img src="images/profile.JPG" width="200" >
