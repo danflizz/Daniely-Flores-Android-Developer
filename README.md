@@ -1,6 +1,6 @@
 # Daniely Flores - Android Developer
 
-<img src="https://github.com/danflizz/Daniely-resume/images/profile.jpg" width="250">
+<img src="[https://github.com/danflizz/Daniely-resume/images/profile.jpg](https://github.com/danflizz/Daniely-resume/blob/main/images/profile.JPG)" width="250">
 
 With over 9 years of experience in Android development, I’ve had the opportunity to lead and collaborate on high-impact projects across various industries, from retail to finance.
 Let’s connect if you're interested in discussing Android development, technical leadership, or mobile app strategy!
